@@ -1,0 +1,24 @@
+.stylized-circle-container {
+    margin: 0 var(--small-space);
+    background-color: var(--primary-color);
+    border-radius: 50%;
+}
+
+.stylized-circle-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stylized-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 2px solid var(--secondary-color);
+}
+
+.stylized-circle-data {
+   color: var(--secondary-color);
+   font-size: var(--large-font);
+}

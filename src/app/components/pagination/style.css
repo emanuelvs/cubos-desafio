@@ -1,0 +1,19 @@
+.pagination-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: var(--large-space);
+}
+
+.page-index-unselected {
+    color: var(--primary-color);
+    font-size: var(--medium-font);
+    margin: 0 var(--small-space);
+    padding: 0 var(--small-space);
+}
+
+
+.page-index {
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #116193;
+    --secondary-color: #00E8E4;
+    --gray: #EBEBEB;
+    --light-gray: #F2F2F2;
+    --dark-gray: #969696;
+    --black: #555555;
+
+    --large-space: 2rem;
+    --medium-space: 1rem;
+    --small-space: .5rem;
+
+    --large-font: 1.8rem;
+    --medium-font: 1.1rem;
+    --small-font: .8rem;
+}

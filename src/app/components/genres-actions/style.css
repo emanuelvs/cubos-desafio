@@ -1,0 +1,20 @@
+.action-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--small-space);
+    flex-direction: row;
+    margin-top: var(--large-space);
+}
+
+.action {
+    padding: var(--small-space) var(--medium-space);
+    border: 1px solid var(--primary-color);
+    border-radius: var(--large-space);
+    background-color: #fff;
+    color: var(--primary-color);
+}
+
+.action-wrapper :hover {
+    background-color: var(--primary-color);
+    color: #fff;
+}

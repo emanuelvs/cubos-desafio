@@ -1,0 +1,15 @@
+.search-input {
+    width: 100%;
+    border-radius: 2rem;
+    background-color: var(--gray);
+    margin: var(--large-space) 0 var(--large-space) 0;
+    padding: var(--medium-space) var(--large-space);
+    color: var(--primary-color);
+    font-size: var(--medium-space);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+}
+
+.search-input:active, .search-input:focus {
+    box-shadow: inset 0 3px 3px rgba(0, 0, 0, .1);
+}
+

@@ -1,0 +1,12 @@
+.header-wrapper {
+    display: flex;
+    flex: 1;
+    background-color: var(--primary-color);
+    height: calc(2.5 * var(--large-space));
+    justify-content: center;
+    align-items: center;
+}
+
+.header-title {
+    color: var(--secondary-color);
+}
