@@ -10,7 +10,7 @@ To install necessary dependencies, NodeJS is required to do that.
 ### `npm start`
 
 Use this command to start the project on development mode<br />
-Abra [http://localhost:3000](http://localhost:3000) no navegador.
+Open [http://localhost:3000](http://localhost:3000) on browser.
 
 
 ### `npm run build`
