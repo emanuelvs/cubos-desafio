@@ -3,16 +3,16 @@
 
 ### `npm install`
 
-Para instalar as dependências necessárias
+To install necessary dependencies, NodeJS is required to do that.
 
 ## Scripts
 
 ### `npm start`
 
-Iniciar em modo de desenvolvimento<br />
+Use this command to start the project on development mode<br />
 Abra [http://localhost:3000](http://localhost:3000) no navegador.
 
 
 ### `npm run build`
 
-Para gerar o build.<br />
+Generate the build.<br />
