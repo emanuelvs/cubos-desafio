@@ -1,3 +1,5 @@
+### Search movies and see details about it through TMDB API
+
 
 ### `npm install`
 
